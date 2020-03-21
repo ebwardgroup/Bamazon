@@ -11,3 +11,6 @@ Bamazon is an online store where you can buy a few very common household items. 
 - Node.js
 - MySQL
 
+# Here's a link to see it in action!  
+https://drive.google.com/file/d/1PAXdbiOObe9d59Of-_Djjo4Z4Kp9P9te/view
+
