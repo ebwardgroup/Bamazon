@@ -2,7 +2,7 @@
 Amazon-like storefront using MySQL 
 
 ## Overview
-You as a customer can select from a few common household items and order them through this app.     
+You as a customer can select from a few common household items and pretend-order them through this app.     
 
 ## Usage
 - Save the required files to your computer
